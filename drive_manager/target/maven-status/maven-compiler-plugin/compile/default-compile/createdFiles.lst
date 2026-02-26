@@ -1,0 +1,11 @@
+com\drive\drive_manager\dto\Effect$effectBlock.class
+com\drive\drive_manager\controller\CardController.class
+com\drive\drive_manager\service\DriveParser.class
+com\drive\drive_manager\controller\DriveController.class
+com\drive\drive_manager\service\DriveParser$DriveFileInfo.class
+com\drive\drive_manager\repository\CardRepository.class
+com\drive\drive_manager\service\DriveParser$PaginatedDriveFiles.class
+com\drive\drive_manager\service\CardService.class
+com\drive\drive_manager\DriveManagerApplication.class
+com\drive\drive_manager\dto\Effect.class
+com\drive\drive_manager\dto\Card.class
